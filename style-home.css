@@ -1,0 +1,53 @@
+p{
+    text-align: center;
+
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%; /*anchura*/
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+
+
+em strong{   /*em strong es esa relacion que debe de haber para que cumpla*/
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+ul{
+    display: inline-block; /*solo ocupa el espacio de su contenido*/
+    vertical-align: top; /*alinear en la parte superior*/
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
